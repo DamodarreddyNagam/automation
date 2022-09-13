@@ -1,0 +1,4 @@
+resource "aws_key_pair" "testing-damu" {
+  key_name   = "testing-damu"
+  public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDDo5AUkwjrTnbXF3TkXxsTDL/AtIyfNEKmWR3UV22UGlPHEvggH/DS0/KuJpmRFgxtxWsDzfteZrjT/VQPJCHS4e7xk/lpVZkr5XiqtPCckOb/ObkrTcsH5wvafUDT3EppyFpcIUNv8q26MNyANidLoC5Y2m/UDqsilU+s3dkmOMuHZ3lzpWBByuuVrNrOr4nIrl+5NaZ0N2WkaidwKEvl9yMkpx/+UCVf0i4AKJVqDaLbNFpFOlHfTIHWv5cbaqAc5YOPTCB4z2xHBdhycJGk9YqQSbircG/k+LwL6hJqW3WXb+oTvRwzWJkEK8nv61Clhwbyg+Pso7fJh4jb/OwRK+24boykponHIbr9KERg4Xm7K126THMcSLqAANT+Ex06YVgaSFaFV/j6XZbNhemUVEdclMSLRW151XXGDONja9ZsUpLAO70wyWYGRH+JhtGGz/aNPXtyTx8WYQmIYd6gxR8qAlnt6seOYqh6v3qsP225qGvK9Aeop9Z+1R1n3eM= Happy@DESKTOP-933I8JK"
+}
